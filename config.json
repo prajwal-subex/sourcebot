@@ -1,0 +1,17 @@
+{
+    "$schema": "https://raw.githubusercontent.com/sourcebot-dev/sourcebot/main/schemas/v3/index.json",
+    "connections": {
+        "starter-connection": {
+            "type": "github",
+            "users": [
+                "Prajwal2001",
+                "Veena-1975"
+            ],
+            "revisions": {
+                "branches": [
+                    "*"
+                ]
+            }
+        }
+    }
+}
