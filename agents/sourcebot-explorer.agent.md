@@ -75,5 +75,3 @@ Always close with a concise summary:
 - **Never omit `ref: "*"`** on tools that support it, unless the user
   explicitly scopes the search to a specific branch.
 - If `ask_codebase` is used, warn the user it may take 60+ seconds.
-- If the Sourcebot server is not running, instruct the user to run
-  `docker compose up` in `c:/Users/Asus/OneDrive/Desktop/sourcebot`.
